@@ -1,4 +1,4 @@
-# Flutter Location Hierarchy App
+# Flutter Location App 
 
 ## 📋 Overview
 This Flutter project displays a hierarchical view of locations in Indonesia, starting from provinces down to kelurahan (villages). The app fetches data from the **Wilayah Indonesia API** to dynamically populate the location hierarchy: Province → City → Kecamatan → Kelurahan.
